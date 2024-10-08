@@ -8,6 +8,7 @@ import tonSvg from './ton.svg';
 export const IndexPage: FC = () => {
   return (
     <List>
+      <h2>app index</h2>
       <Section
         header='Features'
         footer='You can use these pages to learn more about features, provided by Telegram Mini Apps and other useful projects'
